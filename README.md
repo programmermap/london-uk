@@ -1,10 +1,10 @@
-London, UK
+Awesome London, UK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about London, UK. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in London, UK. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in London, UK
+Top 15 programmers in London, UK
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in London, UK.
+These are the 15 most influential programmers in London, UK. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Addy Osmani [@addyosmani](https://github.com/addyosmani) (89)
 2. Ricardo Cabello [@mrdoob](https://github.com/mrdoob) (67)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Bodil Stokke [@bodil](https://github.com/bodil) (32)
 15. Alex Young [@alexyoung](https://github.com/alexyoung) (31)
 
-You can find the comprehensive statistics at the page for [London, UK](http://programmermap.com/area/london-uk) at programmermap.com.
+You can find comprehensive statistics at the page for [London, UK](http://programmermap.com/area/london-uk) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [three.js](http://threejs.org/) (20250)
+2. [Chart.js](http://www.chartjs.org/) (15262)
+3. [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) (12987)
+4. [free-for-dev](https://github.com/ripienaar/free-for-dev) (11286)
+5. [backbone-fundamentals](http://addyosmani.github.io/backbone-fundamentals/) (9088)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
